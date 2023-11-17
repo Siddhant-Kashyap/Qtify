@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5439b560.css",
+    "main.js": "/static/js/main.191ed812.js",
+    "static/media/headphone.png": "/static/media/headphone.668784662a5b69d067ee.png",
+    "index.html": "/index.html",
+    "main.5439b560.css.map": "/static/css/main.5439b560.css.map",
+    "main.191ed812.js.map": "/static/js/main.191ed812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5439b560.css",
+    "static/js/main.191ed812.js"
+  ]
+}
